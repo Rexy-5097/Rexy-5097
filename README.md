@@ -145,6 +145,13 @@ A privacy-preserving electronic health record platform on an FHE-capable EVM cha
 | **[Helios-Dx](https://github.com/Rexy-5097/Helios-Dx)** | Capacity-matched ablation of variational quantum circuits vs. classical layers for FHE medical imaging. Found no significant quantum advantage, and reports it as a null result. | `PyTorch` `PennyLane` |
 | **[ai-code-reviewer](https://github.com/Rexy-5097/ai_code_reviewer_Meta_Hackathon)** | Reinforcement-learning environment for automated code review with structured actions and rewards, built on OpenEnv for the Meta Hackathon. | `Python` `FastAPI` |
 
+**Collaborations** — repositories owned by others, where I did the bulk of the engineering.
+
+| Project | Role | Stack |
+|---|---|---|
+| **[craavee_web_v1](https://github.com/AkankshuGuleria/craavee_web_v1)** | Hyperlocal quick-commerce platform for university campuses, as an npm-workspaces monorepo. **95 of the 97 commits on `main` are mine.** The repository carries a written engineering record — specification, decision log, database spec, RBAC matrix, order state machine, API contracts, security model and test strategy — rather than code alone. | `TypeScript` `Postgres/PLpgSQL` |
+| **[StockMate](https://github.com/uvee-t/StockMate)** | Warehouse inventory platform: role-based access, an append-only inventory ledger, procurement and fulfilment workflows across multi-location storage. 14 of 22 commits on `main`. | `Node.js` `Express` `MongoDB` `JWT` |
+
 ---
 
 ## Research Interests
@@ -162,9 +169,9 @@ A privacy-preserving electronic health record platform on an FHE-capable EVM cha
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/activity-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/activity-light.svg"/>
-  <img src="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/activity-dark.svg" alt="Contribution calendar, commit and pull-request counts, and language share" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/activity-dark.svg?v=3"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/activity-light.svg?v=3"/>
+  <img src="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/activity-dark.svg?v=3" alt="Contribution calendar, commit and pull-request counts, and language share" width="100%"/>
 </picture>
 
 </div>
