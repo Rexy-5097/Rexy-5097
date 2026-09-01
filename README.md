@@ -169,7 +169,7 @@ A privacy-preserving electronic health record platform on an FHE-capable EVM cha
 
 </div>
 
-<sub align="center">Rendered daily by [`scripts/generate-activity.mjs`](scripts/generate-activity.mjs) from the GitHub GraphQL API. No figure above is written by hand.</sub>
+<sub align="center">Contribution calendar, monthly cadence, commit distribution across repositories, and authored-language share. Rendered daily by [`scripts/generate-activity.mjs`](scripts/generate-activity.mjs) from the GitHub GraphQL API — no figure above is written by hand.</sub>
 
 ---
 
