@@ -18,7 +18,7 @@ Currently completing a B.Tech in Computer Science and Engineering at Lovely Prof
 
 <div align="center">
 
-[Focus](#focus) · [Tech Stack](#tech-stack) · [Selected Projects](#selected-projects) · [Additional Work](#additional-work) · [Research Interests](#research-interests)
+[Focus](#focus) · [Tech Stack](#tech-stack) · [Selected Projects](#selected-projects) · [Additional Work](#additional-work) · [Research Interests](#research-interests) · [Activity](#activity)
 
 </div>
 
@@ -157,11 +157,20 @@ A privacy-preserving electronic health record platform on an FHE-capable EVM cha
 
 ---
 
+## Activity
+
 <div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Rexy-5097&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rexy-5097&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&hide=makefile,css,html,dockerfile" alt="Most Used Languages" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rexy-5097&theme=github-compact&hide_border=true" alt="Contribution Graph" width="95%"/>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f2328?style=flat-square&logo=vercel&logoColor=white)](https://proof-of-work-roan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeb-tripathy/)
