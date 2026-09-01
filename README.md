@@ -161,10 +161,14 @@ A privacy-preserving electronic health record platform on an FHE-capable EVM cha
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Rexy-5097&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Rexy-5097&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rexy-5097&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&hide=makefile,css,html,dockerfile" alt="Most Used Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rexy-5097&theme=github-compact&hide_border=true" alt="Contribution Graph" width="95%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/snake-light.svg"/>
+  <img src="https://raw.githubusercontent.com/Rexy-5097/Rexy-5097/output/snake-dark.svg" alt="Contribution Graph" width="95%"/>
+</picture>
 
 </div>
 
